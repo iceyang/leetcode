@@ -1,4 +1,4 @@
-# 70. Climbing Stairs
+# 50. Pow(x, n)
 
 Implement `pow(x, n)`, which calculates x raised to the power n(x^n).
 
