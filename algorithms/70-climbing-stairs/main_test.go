@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestRemoveElement(t *testing.T) {
+func TestClimbStairs(t *testing.T) {
 	num := ClimbStairs(10)
 	if num != 89 {
 		t.Fail()
