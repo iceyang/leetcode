@@ -7,16 +7,32 @@ func MyPow(x float64, n int) float64 {
 	if n == 0 {
 		return 1
 	}
-	if n == 1 {
-		return x
-	}
+	res := MyPow(x, n/2)
 	if n%2 == 0 {
-		res := MyPow(x, n/2)
 		return res * res
 	} else {
-		return MyPow(x, n/2) * MyPow(x, n/2+n%2)
+		return x * res * res
 	}
 }
+
+// version 3
+// func MyPow(x float64, n int) float64 {
+// 	if n < 0 {
+// 		return 1 / MyPow(x, -n)
+// 	}
+// 	if n == 0 {
+// 		return 1
+// 	}
+// 	if n == 1 {
+// 		return x
+// 	}
+// 	if n%2 == 0 {
+// 		res := MyPow(x, n/2)
+// 		return res * res
+// 	} else {
+// 		return MyPow(x, n/2) * MyPow(x, n/2+n%2)
+// 	}
+// }
 
 // func MyPow(x float64, n int) float64 {
 // 	if n < 0 {
@@ -33,6 +49,7 @@ func MyPow(x float64, n int) float64 {
 // 	return res
 // }
 
+// version 2
 // func MyPow(x float64, n int) float64 {
 // 	if n < 0 {
 // 		return 1 / MyPow(x, -n)
@@ -46,4 +63,15 @@ func MyPow(x float64, n int) float64 {
 // 		i++
 // 	}
 // 	return pow[n]
+// }
+
+// version 1
+// func MyPow(x float64, n int) float64 {
+// 	if n < 0 {
+// 		return 1 / MyPow(x, -n)
+// 	}
+// 	if n == 0 {
+// 		return 1
+// 	}
+// 	return x * MyPow(x, n-1)
 // }
