@@ -1,3 +1,3 @@
 # LeetCode
 
-记录LeetCode的题目
+Talk is cheap, show me the code.
