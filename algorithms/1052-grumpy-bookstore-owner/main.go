@@ -13,6 +13,34 @@ func maxSatisfied(customers []int, grumpy []int, X int) int {
 			result += customers[i]
 		}
 	}
+	window := 0
+	for i := 0; i < X; i++ {
+		if grumpy[i] == 1 {
+			window += customers[i]
+		}
+	}
+	maxWindow := window
+	for i := X; i < len(customers); i++ {
+		window = window - customers[i-X]*grumpy[i-X]
+		if grumpy[i] != 1 {
+			continue
+		}
+		window += customers[i]
+		if window > maxWindow {
+			maxWindow = window
+		}
+	}
+	result += maxWindow
+	return result
+}
+
+func maxSatisfied1(customers []int, grumpy []int, X int) int {
+	result := 0
+	for i := 0; i < len(customers); i++ {
+		if grumpy[i] == 0 {
+			result += customers[i]
+		}
+	}
 
 	// 计算X能得到的最大效益
 	startIndex := 0
