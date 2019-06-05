@@ -8,9 +8,6 @@ type ListNode struct {
 	Next *ListNode
 }
 
-/**
- * 使用归并排序进行两两排序
- */
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	node := &ListNode{}
 	head := node
