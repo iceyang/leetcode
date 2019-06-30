@@ -26,6 +26,7 @@
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)|中等|[😋](algorithms/92-reverse-link-2)|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses)|中等|[😋](algorithms/93-restore-ip-addresses)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle)|简单|[😋](algorithms/141-has-cycle)|
+|650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/comments/)|中等|[😋](algorithms/650-2-keys-keyboard)|
 |1052|[爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner)|中等|[😋](algorithms/1052-grumpy-bookstore-owner)|
 
 ## Shell
