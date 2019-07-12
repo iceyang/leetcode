@@ -21,7 +21,8 @@
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[😋](algorithms/52-n-queen)|
 |60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence)|中等|[😋](algorithms/60-permutation-sequence)|
 |61|[旋转链表](https://leetcode-cn.com/problems/rotate-list)|中等|[😋](algorithms/61-rotate-list)|
-|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/submissions/)|中等|[😋](algorithms/62-unique-paths)|
+|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|中等|[😋](algorithms/62-unique-paths)|
+|63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|中等|[😋](algorithms/63-unique-paths-ii)|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)|简单|[😋](algorithms/70-climbing-stairs)|
 |82|[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|中等|[😋](algorithms/82-remove-duplicates-from-sorted-list-ii)|
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)|中等|[😋](algorithms/92-reverse-link-2)|
