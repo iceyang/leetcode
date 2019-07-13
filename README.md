@@ -27,6 +27,7 @@
 |82|[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|中等|[😋](algorithms/82-remove-duplicates-from-sorted-list-ii)|
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)|中等|[😋](algorithms/92-reverse-link-2)|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses)|中等|[😋](algorithms/93-restore-ip-addresses)|
+|96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees)|中等|[😋](algorithms/96-unique-binary-search-trees)|
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|中等|[😋](algorithms/120-triangle)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle)|简单|[😋](algorithms/141-has-cycle)|
 |322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|中等|[😋](algorithms/322-coin-change)|
