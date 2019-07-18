@@ -10,7 +10,7 @@
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers)|中等|[→](algorithms/2-add-two-numbers)|
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|中等|[→](algorithms/3-longest-substring-without-repeating-characters)|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number)|简单|[→](algorithms/9-palindrome-number)|
-|19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等|[😋](algorithms/19-remove-nth-from-end)|
+|19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等|[→](algorithms/19-remove-nth-from-end)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|简单|[→](algorithms/21-merge-two-sorted-lists)|
 |23|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难|[→](algorithms/23-merge-k-sorted-lists)|
 |24|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|中等|[→](algorithms/24-swap-nodes-in-pairs)|
