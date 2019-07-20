@@ -14,6 +14,7 @@
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|简单|[→解答](algorithms/21-merge-two-sorted-lists)|
 |23|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难|[→解答](algorithms/23-merge-k-sorted-lists)|
 |24|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|中等|[→解答](algorithms/24-swap-nodes-in-pairs)|
+|25|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|困难|[→解答](algorithms/25-reverse-nodes-in-k-group)|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element)|简单|[→解答](algorithms/27-remove-element)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
 |36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|[→解答](algorithms/36-valid-sudoku)|
