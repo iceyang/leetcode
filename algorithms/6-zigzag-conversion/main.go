@@ -1,21 +1,39 @@
 package main
 
-import "fmt"
-
 func convert(s string, numRows int) string {
-	res := make([][]rune, numRows)
-	for i, _ := range res {
-		res[i] = make([]rune, 20)
+	if s == "" {
+		return ""
 	}
-	// count := (numRows * (numRows - 1))
-	for i, letter := range s {
-		// i % count
-		row := i % numRows
-		column := i / numRows
-		res[row][column] = letter
+	length := len(s)
+	if numRows <= 1 || numRows > length {
+		return s
 	}
+	res := make([][]byte, numRows)
+	i := 0
+	row := 0
+	column := 0
+	for i < length {
+		res[row] = append(res[row], s[i])
+		if column%(numRows-1) != 0 {
+			column += 1
+			row -= 1
+		} else {
+			row += 1
+		}
+		if row == numRows {
+			column += 1
+			row -= 2
+		}
+		i++
+	}
+	result := ""
 	for _, r := range res {
-		fmt.Println(string(r))
+		for _, letter := range r {
+			if letter == ' ' {
+				continue
+			}
+			result += string(letter)
+		}
 	}
-	return ""
+	return result
 }

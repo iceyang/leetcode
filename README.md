@@ -9,6 +9,7 @@
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum)|简单|[→解答](algorithms/1-two-sum)|
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers)|中等|[→解答](algorithms/2-add-two-numbers)|
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|中等|[→解答](algorithms/3-longest-substring-without-repeating-characters)|
+|6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|中等|[→解答](algorithms/6-zigzag-conversion)|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number)|简单|[→解答](algorithms/9-palindrome-number)|
 |17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|中等|[→解答](algorithms/17-letter-combinations-of-a-phone-number)|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等|[→解答](algorithms/19-remove-nth-from-end)|

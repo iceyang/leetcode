@@ -3,5 +3,11 @@ package main
 import "testing"
 
 func TestConvert(t *testing.T) {
-	convert("LEETCODEISHIRING", 4)
+	if convert("LEETCODEISHIRING", 4) != "LDREOEIIECIHNTSG" {
+		t.Fatal()
+	}
+	if convert("LEETCODEISHIRING", 3) != "LCIRETOESIIGEDHN" {
+		t.Fatal()
+	}
+	convert("PAYPALISHIRING", 9)
 }
