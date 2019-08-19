@@ -1,5 +1,6 @@
 package main
 
+// 二维数组
 func convert(s string, numRows int) string {
 	if s == "" {
 		return ""
@@ -34,6 +35,40 @@ func convert(s string, numRows int) string {
 			}
 			result += string(letter)
 		}
+	}
+	return result
+}
+
+// 一维string数组
+func convert(s string, numRows int) string {
+	if s == "" {
+		return ""
+	}
+	length := len(s)
+	if numRows <= 1 || numRows > length {
+		return s
+	}
+	res := make([]string, numRows)
+	i := 0
+	row := 0
+	column := 0
+	for i < length {
+		res[row] += string(s[i])
+		if column%(numRows-1) != 0 {
+			column += 1
+			row -= 1
+		} else {
+			row += 1
+		}
+		if row == numRows {
+			column += 1
+			row -= 2
+		}
+		i++
+	}
+	result := ""
+	for _, r := range res {
+		result += r
 	}
 	return result
 }
