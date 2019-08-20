@@ -20,6 +20,7 @@
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element)|简单|[→解答](algorithms/27-remove-element)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
 |36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|[→解答](algorithms/36-valid-sudoku)|
+|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|中等|[→解答](algorithms/39-combination-sum)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|[→解答](algorithms/50-pow-x-n)|
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[→解答](algorithms/52-n-queen)|
 |60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence)|中等|[→解答](algorithms/60-permutation-sequence)|
