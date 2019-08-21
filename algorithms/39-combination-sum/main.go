@@ -4,6 +4,9 @@ import (
 	"sort"
 )
 
+/**
+ * 计算result中是否包含了newArr
+ */
 func contains(result [][]int, newArr []int) bool {
 	for _, arr := range result {
 		if len(arr) != len(newArr) {
@@ -23,6 +26,9 @@ func contains(result [][]int, newArr []int) bool {
 	return false
 }
 
+/**
+ * 回溯得到结果
+ */
 func backtrack(candidates [][]int, target int) [][]int {
 	numbers := candidates[target]
 	var result [][]int
@@ -42,6 +48,9 @@ func backtrack(candidates [][]int, target int) [][]int {
 	return result
 }
 
+/**
+ * 动态规划解答问题
+ */
 func combinationSum(candidates []int, target int) [][]int {
 	if target == 0 {
 		return [][]int{[]int{}}
