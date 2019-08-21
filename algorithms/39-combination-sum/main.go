@@ -27,16 +27,16 @@ func contains(result [][]int, newArr []int) bool {
 }
 
 /**
- * 回溯得到结果
+ * 从动态规划中回溯得到结果
  */
-func backtrack(candidates [][]int, target int) [][]int {
+func trackResult(candidates [][]int, target int) [][]int {
 	numbers := candidates[target]
 	var result [][]int
 	for _, num := range numbers {
 		if num-target == 0 {
 			result = append(result, []int{num})
 		} else {
-			for _, res := range backtrack(candidates, target-num) {
+			for _, res := range trackResult(candidates, target-num) {
 				newArr := append(res, num)
 				sort.Ints(newArr)
 				if !contains(result, newArr) {
@@ -51,10 +51,7 @@ func backtrack(candidates [][]int, target int) [][]int {
 /**
  * 动态规划解答问题
  */
-func combinationSum(candidates []int, target int) [][]int {
-	if target == 0 {
-		return [][]int{[]int{}}
-	}
+func dp(candidates []int, target int) [][]int {
 	result := make([][]int, target+1)
 	result[0] = []int{0}
 	for i := 1; i <= target; i++ {
@@ -67,5 +64,37 @@ func combinationSum(candidates []int, target int) [][]int {
 			}
 		}
 	}
-	return backtrack(result, target)
+	return trackResult(result, target)
+}
+
+/**
+ * 回溯解答问题
+ */
+func backtrack(candidates []int, target int) [][]int {
+	result := [][]int{}
+	for _, num := range candidates {
+		remain := target - num
+		if remain < 0 {
+			continue
+		}
+		if remain == 0 {
+			result = append(result, []int{num})
+			continue
+		}
+		for _, res := range combinationSum(candidates, remain) {
+			newArr := append(res, num)
+			sort.Ints(newArr)
+			if !contains(result, newArr) {
+				result = append(result, newArr)
+			}
+		}
+	}
+	return result
+}
+
+func combinationSum(candidates []int, target int) [][]int {
+	if target == 0 {
+		return [][]int{[]int{}}
+	}
+	return backtrack(candidates, target)
 }
