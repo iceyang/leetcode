@@ -73,15 +73,15 @@ func dp(candidates []int, target int) [][]int {
 func backtrack(candidates []int, target int) [][]int {
 	result := [][]int{}
 	for _, num := range candidates {
-		remain := target - num
-		if remain < 0 {
-			continue
+		if num > target {
+			break
 		}
-		if remain == 0 {
+		if num == target {
 			result = append(result, []int{num})
 			continue
 		}
-		for _, res := range combinationSum(candidates, remain) {
+		remain := target - num
+		for _, res := range backtrack(candidates, remain) {
 			newArr := append(res, num)
 			sort.Ints(newArr)
 			if !contains(result, newArr) {
@@ -93,6 +93,7 @@ func backtrack(candidates []int, target int) [][]int {
 }
 
 func combinationSum(candidates []int, target int) [][]int {
+	sort.Ints(candidates)
 	if target == 0 {
 		return [][]int{[]int{}}
 	}
