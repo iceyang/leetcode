@@ -43,6 +43,7 @@
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|中等|[→解答](algorithms/139-word-break)|
 |140|[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|困难|[→解答](algorithms/140-word-break-ii)|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle)|简单|[→解答](algorithms/141-has-cycle)|
+|232|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)|简单|[→解答](algorithms/232-implement-queue-using-stacks)|
 |322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|中等|[→解答](algorithms/322-coin-change)|
 |377|[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)|中等|[→解答](algorithms/377-combination-sum-iv)|
 |650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等|[→解答](algorithms/650-2-keys-keyboard)|
