@@ -33,6 +33,7 @@
 |61|[旋转链表](https://leetcode-cn.com/problems/rotate-list)|中等|[→解答](algorithms/61-rotate-list)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|中等|[→解答](algorithms/62-unique-paths)|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|中等|[→解答](algorithms/63-unique-paths-ii)|
+|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|中等|[→解答](algorithms/64-minimum-path-sum)|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)|简单|[→解答](algorithms/70-climbing-stairs)|
 |71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|中等|[→解答](algorithms/71-simplify-path)|
 |82|[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|中等|[→解答](algorithms/82-remove-duplicates-from-sorted-list-ii)|
