@@ -9,9 +9,12 @@ func spiralOrder(matrix [][]int) []int {
 	if n == 0 {
 		return []int{}
 	}
+	record := make([][]int, m)
+	for index, _ := range record {
+		record[index] = make([]int, n)
+	}
 	i := 0
 	j := 0
-	count := 0
 	length := m * n
 	res := [length]int{}
 	// for count < length {
@@ -20,4 +23,5 @@ func spiralOrder(matrix [][]int) []int {
 	// 	if i < m {
 	// 	}
 	// }
+	return nil
 }
