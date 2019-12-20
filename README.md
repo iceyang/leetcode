@@ -11,6 +11,7 @@
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|中等|[→解答](algorithms/3-longest-substring-without-repeating-characters)|
 |4|[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)|困难|[→解答](algorithms/4-median-of-two-sorted-arrays)|
 |6|[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)|中等|[→解答](algorithms/6-zigzag-conversion)|
+|7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|简单|[→解答](algorithms/7-reverse-integer)|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number)|简单|[→解答](algorithms/9-palindrome-number)|
 |11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|中等|[→解答](algorithms/11-container-with-most-water)|
 |12|[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)|中等|[→解答](algorithms/12-integer-to-roman)|
@@ -30,6 +31,7 @@
 |47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|中等|[→解答](algorithms/47-permutations-ii)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|[→解答](algorithms/50-pow-x-n)|
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[→解答](algorithms/52-n-queen)|
+|54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等|[→解答](algorithms/54-spiral-matrix)|
 |60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence)|中等|[→解答](algorithms/60-permutation-sequence)|
 |61|[旋转链表](https://leetcode-cn.com/problems/rotate-list)|中等|[→解答](algorithms/61-rotate-list)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|中等|[→解答](algorithms/62-unique-paths)|
