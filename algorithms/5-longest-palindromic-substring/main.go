@@ -1,10 +1,8 @@
 package main
 
-import "fmt"
-
-func isPalindrome(s string) bool {
-	for l, r := 0, len(s)-1; l < r; {
-		if s[l] != s[r] {
+func isPalindrome(s *string) bool {
+	for l, r := 0, len(*s)-1; l < r; {
+		if (*s)[l] != (*s)[r] {
 			return false
 		}
 		l++
@@ -14,7 +12,16 @@ func isPalindrome(s string) bool {
 }
 
 func longestPalindrome(s string) string {
-	t := isPalindrome(s)
-	fmt.Println(t)
-	return s
+	length := len(s)
+	if length <= 1 {
+		return s
+	}
+	pre := longestPalindrome(s[:length-1])
+	for i, max := 0, length-len(pre); i < max; i++ {
+		str := s[i:]
+		if isPalindrome(&str) {
+			return str
+		}
+	}
+	return pre
 }
