@@ -23,6 +23,7 @@
 |23|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难|[→解答](algorithms/23-merge-k-sorted-lists)|
 |24|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|中等|[→解答](algorithms/24-swap-nodes-in-pairs)|
 |25|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|困难|[→解答](algorithms/25-reverse-nodes-in-k-group)|
+|26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|简单|[→解答](algorithms/26-remove-duplicates-from-sorted-array)|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element)|简单|[→解答](algorithms/27-remove-element)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|中等|[→解答](algorithms/34-find-first-and-last-position-of-element-in-sorted-array)|
