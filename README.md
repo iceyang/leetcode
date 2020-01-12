@@ -17,6 +17,7 @@
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number)|简单|[→解答](algorithms/9-palindrome-number)|
 |11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|中等|[→解答](algorithms/11-container-with-most-water)|
 |12|[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)|中等|[→解答](algorithms/12-integer-to-roman)|
+|13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|简单|[→解答](algorithms/13-roman-to-integer)|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|简单|[→解答](algorithms/14-longest-common-prefix)|
 |17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|中等|[→解答](algorithms/17-letter-combinations-of-a-phone-number)|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等|[→解答](algorithms/19-remove-nth-from-end)|
