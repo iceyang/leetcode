@@ -21,6 +21,7 @@
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|简单|[→解答](algorithms/14-longest-common-prefix)|
 |17|[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|中等|[→解答](algorithms/17-letter-combinations-of-a-phone-number)|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等|[→解答](algorithms/19-remove-nth-from-end)|
+|20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|简单|[→解答](algorithms/20-valid-parentheses)|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|简单|[→解答](algorithms/21-merge-two-sorted-lists)|
 |22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses)|中等|[→解答](algorithms/22-generate-parentheses)|
 |23|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难|[→解答](algorithms/23-merge-k-sorted-lists)|
