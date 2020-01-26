@@ -39,6 +39,7 @@
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|[→解答](algorithms/50-pow-x-n)|
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[→解答](algorithms/52-n-queen)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等|[→解答](algorithms/54-spiral-matrix)|
+|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|中等|[→解答](algorithms/55-jump-game)|
 |60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence)|中等|[→解答](algorithms/60-permutation-sequence)|
 |61|[旋转链表](https://leetcode-cn.com/problems/rotate-list)|中等|[→解答](algorithms/61-rotate-list)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|中等|[→解答](algorithms/62-unique-paths)|
