@@ -31,6 +31,7 @@
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element)|简单|[→解答](algorithms/27-remove-element)|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|中等|[→解答](algorithms/29-divide-two-integers)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
+|33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|中等|[→解答](algorithms/33-search-in-rotated-sorted-array)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|中等|[→解答](algorithms/34-find-first-and-last-position-of-element-in-sorted-array)|
 |36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|[→解答](algorithms/36-valid-sudoku)|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|中等|[→解答](algorithms/39-combination-sum)|
