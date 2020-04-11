@@ -53,6 +53,7 @@
 |71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|中等|[→解答](algorithms/71-simplify-path)|
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/)|中等|[→解答](algorithms/75-sort-colors)|
 |82|[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|中等|[→解答](algorithms/82-remove-duplicates-from-sorted-list-ii)|
+|83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|简单|[→解答](algorithms/83-remove-duplicates-from-sorted-list)|
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)|中等|[→解答](algorithms/92-reverse-link-2)|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses)|中等|[→解答](algorithms/93-restore-ip-addresses)|
 |96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees)|中等|[→解答](algorithms/96-unique-binary-search-trees)|
