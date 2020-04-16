@@ -44,6 +44,7 @@
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[→解答](algorithms/52-n-queen)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等|[→解答](algorithms/54-spiral-matrix)|
 |55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|中等|[→解答](algorithms/55-jump-game)|
+|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals/)|中等|[→解答](algorithms/56-merge-intervals)|
 |60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence)|中等|[→解答](algorithms/60-permutation-sequence)|
 |61|[旋转链表](https://leetcode-cn.com/problems/rotate-list)|中等|[→解答](algorithms/61-rotate-list)|
 |62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|中等|[→解答](algorithms/62-unique-paths)|
@@ -65,6 +66,7 @@
 |322|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|中等|[→解答](algorithms/322-coin-change)|
 |328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|中等|[→解答](algorithms/328-odd-even-linked-list)|
 |377|[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)|中等|[→解答](algorithms/377-combination-sum-iv)|
+|445|[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|中等|[→解答](algorithms/445-add-two-numbers-ii)|
 |650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等|[→解答](algorithms/650-2-keys-keyboard)|
 |1052|[爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner)|中等|[→解答](algorithms/1052-grumpy-bookstore-owner)|
 

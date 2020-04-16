@@ -11,16 +11,13 @@ func QuickSort(nums []int) []int {
 		for nums[j] >= guard && i < j {
 			j--
 		}
-		for nums[i] <= guard && i < j {
+		nums[i] = nums[j]
+		for nums[i] < guard && i < j {
 			i++
 		}
-		if i < j {
-			nums[i], nums[j] = nums[j], nums[i]
-			i++
-			j--
-		}
+		nums[j] = nums[i]
 	}
-	nums[0], nums[i] = nums[i], nums[0]
+	nums[i] = guard
 	QuickSort(nums[:i])
 	QuickSort(nums[i+1:])
 	return nums
