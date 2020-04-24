@@ -75,3 +75,6 @@
 |#|题名|难度|解答|
 |---|---|---|---|
 |192|[统计词频](https://leetcode-cn.com/problems/word-frequency)|中等|[→解答](shell/192-word-frequency)|
+
+## lcof
+|51|[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|困难|[→解答](lcof/shu-zu-zhong-de-ni-xu-dui)|
