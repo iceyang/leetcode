@@ -38,6 +38,7 @@
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|中等|[→解答](algorithms/39-combination-sum)|
 |40|[组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)|中等|[→解答](algorithms/40-combination-sum-ii)|
 |42|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|困难|[→解答](algorithms/42-trapping-rain-water)|
+|45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)|困难|[→解答](algorithms/45-jump-game-ii)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|中等|[→解答](algorithms/46-permutations)|
 |47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|中等|[→解答](algorithms/47-permutations-ii)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|[→解答](algorithms/50-pow-x-n)|
