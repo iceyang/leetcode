@@ -68,6 +68,7 @@
 |328|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|中等|[→解答](algorithms/328-odd-even-linked-list)|
 |377|[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)|中等|[→解答](algorithms/377-combination-sum-iv)|
 |445|[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|中等|[→解答](algorithms/445-add-two-numbers-ii)|
+|575|[分糖果](https://leetcode-cn.com/problems/distribute-candies/)|简单|[→解答](algorithms/575-distribute-candies)|
 |650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等|[→解答](algorithms/650-2-keys-keyboard)|
 |1052|[爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner)|中等|[→解答](algorithms/1052-grumpy-bookstore-owner)|
 
