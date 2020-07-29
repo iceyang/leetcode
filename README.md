@@ -53,6 +53,7 @@
 |64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|中等|[→解答](algorithms/64-minimum-path-sum)|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)|简单|[→解答](algorithms/70-climbing-stairs)|
 |71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|中等|[→解答](algorithms/71-simplify-path)|
+|73|[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)|中等|[→解答](algorithms/73-set-matrix-zeroes)|
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/)|中等|[→解答](algorithms/75-sort-colors)|
 |82|[删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)|中等|[→解答](algorithms/82-remove-duplicates-from-sorted-list-ii)|
 |83|[删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|简单|[→解答](algorithms/83-remove-duplicates-from-sorted-list)|
