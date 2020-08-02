@@ -60,6 +60,7 @@
 |92|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)|中等|[→解答](algorithms/92-reverse-link-2)|
 |93|[复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses)|中等|[→解答](algorithms/93-restore-ip-addresses)|
 |96|[不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees)|中等|[→解答](algorithms/96-unique-binary-search-trees)|
+|114|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|中等|[→解答](algorithms/114-flatten-binary-tree-to-linked-list)|
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|中等|[→解答](algorithms/120-triangle)|
 |139|[单词拆分](https://leetcode-cn.com/problems/word-break/)|中等|[→解答](algorithms/139-word-break)|
 |140|[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)|困难|[→解答](algorithms/140-word-break-ii)|
