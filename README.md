@@ -41,6 +41,7 @@
 |45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)|困难|[→解答](algorithms/45-jump-game-ii)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|中等|[→解答](algorithms/46-permutations)|
 |47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|中等|[→解答](algorithms/47-permutations-ii)|
+|49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|中等|[→解答](algorithms/49-group-anagrams)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|[→解答](algorithms/50-pow-x-n)|
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[→解答](algorithms/52-n-queen)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等|[→解答](algorithms/54-spiral-matrix)|
