@@ -75,6 +75,7 @@
 |445|[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|中等|[→解答](algorithms/445-add-two-numbers-ii)|
 |575|[分糖果](https://leetcode-cn.com/problems/distribute-candies/)|简单|[→解答](algorithms/575-distribute-candies)|
 |650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等|[→解答](algorithms/650-2-keys-keyboard)|
+|696|[计算二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)|简单|[→解答](algorithms/696-count-binary-substrings)|
 |1052|[爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner)|中等|[→解答](algorithms/1052-grumpy-bookstore-owner)|
 
 ## Shell
