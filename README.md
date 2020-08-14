@@ -33,6 +33,7 @@
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|中等|[→解答](algorithms/33-search-in-rotated-sorted-array)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|中等|[→解答](algorithms/34-find-first-and-last-position-of-element-in-sorted-array)|
+|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|简单|[→解答](algorithms/35-search-insert-position)|
 |36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|[→解答](algorithms/36-valid-sudoku)|
 |38|[外观数列](https://leetcode-cn.com/problems/count-and-say/)|简单|[→解答](algorithms/38-count-and-say)|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|中等|[→解答](algorithms/39-combination-sum)|
