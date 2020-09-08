@@ -29,6 +29,7 @@
 |25|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|困难|[→解答](algorithms/25-reverse-nodes-in-k-group)|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|简单|[→解答](algorithms/26-remove-duplicates-from-sorted-array)|
 |27|[移除元素](https://leetcode-cn.com/problems/remove-element)|简单|[→解答](algorithms/27-remove-element)|
+|28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|简单|[→解答](algorithms/28-implement-strstr)|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)|中等|[→解答](algorithms/29-divide-two-integers)|
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|中等|[→解答](algorithms/33-search-in-rotated-sorted-array)|
