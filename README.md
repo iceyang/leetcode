@@ -35,6 +35,7 @@
 |31|[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等|[→解答](algorithms/31-next-permutation)|
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|中等|[→解答](algorithms/33-search-in-rotated-sorted-array)|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|中等|[→解答](algorithms/34-find-first-and-last-position-of-element-in-sorted-array)|
+|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|简单|[→解答](algorithms/35-search-insert-position)|
 |36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等|[→解答](algorithms/36-valid-sudoku)|
 |38|[外观数列](https://leetcode-cn.com/problems/count-and-say/)|简单|[→解答](algorithms/38-count-and-say)|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|中等|[→解答](algorithms/39-combination-sum)|
@@ -43,6 +44,7 @@
 |45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)|困难|[→解答](algorithms/45-jump-game-ii)|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|中等|[→解答](algorithms/46-permutations)|
 |47|[全排列 II](https://leetcode-cn.com/problems/permutations-ii/)|中等|[→解答](algorithms/47-permutations-ii)|
+|49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|中等|[→解答](algorithms/49-group-anagrams)|
 |50|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等|[→解答](algorithms/50-pow-x-n)|
 |52|[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难|[→解答](algorithms/52-n-queen)|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等|[→解答](algorithms/54-spiral-matrix)|
@@ -76,6 +78,7 @@
 |445|[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|中等|[→解答](algorithms/445-add-two-numbers-ii)|
 |575|[分糖果](https://leetcode-cn.com/problems/distribute-candies/)|简单|[→解答](algorithms/575-distribute-candies)|
 |650|[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等|[→解答](algorithms/650-2-keys-keyboard)|
+|696|[计算二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)|简单|[→解答](algorithms/696-count-binary-substrings)|
 |1052|[爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner)|中等|[→解答](algorithms/1052-grumpy-bookstore-owner)|
 
 ## Shell
